@@ -13,17 +13,6 @@
   padding-top: 6rem;
 }
 
-.method-bg {
-  width: 100%;
-  height: 100%;
-  background-image: url('../resources/coins.png');
-  background-size: cover;
-  top: 0;
-  left: 0;
-  position: absolute;
-  z-index: -1;
-}
-
 .method-content {
   z-index: 2;
   display: flex;
