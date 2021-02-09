@@ -20,6 +20,18 @@
   padding: 0rem 4rem;
 }
 
+.nav a {
+  color: white;
+  text-decoration: none;
+  padding: 0rem 1rem;
+}
+
+.nav a:focus {
+  color: white;
+  text-decoration: none;
+  outline: none;
+}
+
 .bg-black {
   background-color: rgb(5, 5, 5);
 }
@@ -48,7 +60,6 @@
 
 .nav-items li {
   margin: 0rem 1rem;
-  padding: 0rem 1rem;
   display: flex;
   align-items: center;
   cursor: pointer;

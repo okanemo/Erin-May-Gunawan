@@ -3,9 +3,9 @@ import '../css/review.css';
 
 function Review() {
   return (
-    <div className='review'>
+    <section className='review' id='reviews'>
       <div className='review-content'>
-        <h1>Testimonials and Review</h1>
+        <h1 className='green'>Why Okanemo?</h1>
         <input type='radio' name='slides' id='radio-1'></input>
         <input type='radio' name='slides' id='radio-2'></input>
         <input type='radio' name='slides' id='radio-3'></input>
@@ -65,7 +65,7 @@ function Review() {
           <label for='radio-4' id='dotForRadio-4'></label>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 

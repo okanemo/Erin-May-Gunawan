@@ -5,7 +5,7 @@ import Video from '../resources/world.mp4';
 
 function Method() {
   return (
-    <div className='method'>
+    <section className='method' id='method'>
       <div className='method-bg'>
         <video
           autoPlay
@@ -33,7 +33,7 @@ function Method() {
           </h2>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 
