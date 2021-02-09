@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/transfer-website/static/css/main.0a594be6.chunk.css",
+    "main.js": "/transfer-website/static/js/main.a0fed7bf.chunk.js",
+    "main.js.map": "/transfer-website/static/js/main.a0fed7bf.chunk.js.map",
+    "runtime-main.js": "/transfer-website/static/js/runtime-main.4cb315ae.js",
+    "runtime-main.js.map": "/transfer-website/static/js/runtime-main.4cb315ae.js.map",
+    "static/js/2.fc7496ad.chunk.js": "/transfer-website/static/js/2.fc7496ad.chunk.js",
+    "static/js/2.fc7496ad.chunk.js.map": "/transfer-website/static/js/2.fc7496ad.chunk.js.map",
+    "static/js/3.72dea065.chunk.js": "/transfer-website/static/js/3.72dea065.chunk.js",
+    "static/js/3.72dea065.chunk.js.map": "/transfer-website/static/js/3.72dea065.chunk.js.map",
+    "index.html": "/transfer-website/index.html",
+    "static/css/main.0a594be6.chunk.css.map": "/transfer-website/static/css/main.0a594be6.chunk.css.map",
+    "static/js/2.fc7496ad.chunk.js.LICENSE.txt": "/transfer-website/static/js/2.fc7496ad.chunk.js.LICENSE.txt",
+    "static/media/bank.cf82ef69.png": "/transfer-website/static/media/bank.cf82ef69.png",
+    "static/media/coin.8f8fbe80.svg": "/transfer-website/static/media/coin.8f8fbe80.svg",
+    "static/media/credit_card.727707ec.svg": "/transfer-website/static/media/credit_card.727707ec.svg",
+    "static/media/facebook.cffba84d.svg": "/transfer-website/static/media/facebook.cffba84d.svg",
+    "static/media/linkedin.1d7d4990.svg": "/transfer-website/static/media/linkedin.1d7d4990.svg",
+    "static/media/review.css": "/transfer-website/static/media/pexels-irina-iriser-1366957.0d7388d0.jpg",
+    "static/media/shield.c825e073.svg": "/transfer-website/static/media/shield.c825e073.svg",
+    "static/media/video.d48e2181.mp4": "/transfer-website/static/media/video.d48e2181.mp4",
+    "static/media/world.8242e035.svg": "/transfer-website/static/media/world.8242e035.svg",
+    "static/media/world.86fe557b.mp4": "/transfer-website/static/media/world.86fe557b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4cb315ae.js",
+    "static/js/2.fc7496ad.chunk.js",
+    "static/css/main.0a594be6.chunk.css",
+    "static/js/main.a0fed7bf.chunk.js"
+  ]
+}
