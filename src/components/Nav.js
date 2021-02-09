@@ -21,22 +21,29 @@ function Nav() {
   }, []);
 
   return (
-    <div className={'nav' + (menu ? '-hide' : '') + (show ? ' bg-black' : '')}>
-      <h1>okanemo</h1>
+    <nav className={'nav' + (menu ? '-hide' : '') + (show ? ' bg-black' : '')}>
+      <a href='/'>
+        <h1>okanemo</h1>
+      </a>
       <ul className={'nav-items' + (menu ? '-open' : '')}>
         <FaTimes className='closeButton' onClick={() => setMenu(false)} />
         <div className='nav-items-wrapper'>
-          <li>Help</li>
-          <li>Careers</li>
-          <li>Fees</li>
-          {/* <li>Login</li> */}
+          <li>
+            <a href='#about'>About</a>
+          </li>
+          <li>
+            <a href='#method'>Method</a>
+          </li>
+          <li>
+            <a href='#reviews'>Reviews</a>
+          </li>
         </div>
       </ul>
       <FaBars
         className={'burger' + (menu ? '-close' : '')}
         onClick={() => setMenu(true)}
       />
-    </div>
+    </nav>
   );
 }
 

@@ -7,7 +7,7 @@ import { ReactComponent as Coin } from '../resources/coin.svg';
 
 function About() {
   return (
-    <div className='about'>
+    <section className='about' id='about'>
       <div className='about-text'>
         <div className='about-content'>
           <h1>A cheaper, faster way to send money</h1>
@@ -43,7 +43,7 @@ function About() {
           </p>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 
