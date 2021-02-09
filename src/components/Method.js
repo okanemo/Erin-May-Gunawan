@@ -1,10 +1,21 @@
 import React from 'react';
 import '../css/method.css';
 import bank from '../resources/bank.png';
+import Video from '../resources/world.mp4';
 
 function Method() {
   return (
     <div className='method'>
+      <div className='method-bg'>
+        <video
+          autoPlay
+          loop
+          muted
+          src={Video}
+          type='video/mp4'
+          className='videoBg'
+        />
+      </div>
       <div className='method-content'>
         <h1>
           The secret behind
